@@ -1,0 +1,41 @@
+@import "src/styles/breakpoints.scss";
+
+html {
+  font-size: max(16px, 1vw);
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  @media #{$mq-lg} {
+    // margin: 0 $margin-lg;
+  }
+  @media #{$mq-xl} {
+    max-width: 80%;
+    left: 40%;
+    position: relative;
+    transform: translateX(-50%);
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root {
+  min-height: 100vh;
+  margin: 0;
+  // overflow-x: hidden;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+// set as default
+* {
+  box-sizing: border-box;
+}

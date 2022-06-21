@@ -1,0 +1,102 @@
+{
+  "1": {
+    "address": "0x5ba1e12693dc8f9c48aad8770482f4739beed696",
+    "name": "ethereum mainnet"
+  },
+  "3": {
+    "address": "0x5ba1e12693dc8f9c48aad8770482f4739beed696",
+    "name": "ethereum ropsten testnet"
+  },
+  "4": {
+    "address": "0x5ba1e12693dc8f9c48aad8770482f4739beed696",
+    "name": "ethereum rinkeby testnet"
+  },
+  "5": {
+    "address": "0x5ba1e12693dc8f9c48aad8770482f4739beed696",
+    "name": "ethereum gorli testnet"
+  },
+  "10": {
+    "address": "0x142e2feac30d7fc3b61f9ee85fccad8e560154cc",
+    "name": "optimistism mainnet"
+  },
+  "30": {
+    "address": "0x6c62bf5440de2cb157205b15c424bceb5c3368f5",
+    "name": "rsk mainnet"
+  },
+  "31": {
+    "address": "0x9e469e1fc7fb4c5d17897b68eaf1afc9df39f103",
+    "name": "rsk testnet"
+  },
+  "40": {
+    "address": "0x53dC7535028e2fcaCa0d847AD108b9240C0801b1",
+    "name": "telos mainnet"
+  },
+  "42": {
+    "address": "0x5ba1e12693dc8f9c48aad8770482f4739beed696",
+    "name": "ethereum kovan testnet"
+  },
+  "56": {
+    "address": "0x41263cba59eb80dc200f3e2544eda4ed6a90e76c",
+    "name": "binance smart chain mainnet"
+  },
+  "61": {
+    "address": "0x900cD941a2451471BC5760c3d69493Ac57aA9698",
+    "name": "ethereum classic mainnet"
+  },
+  "97": {
+    "address": "0xae11C5B5f29A6a25e955F0CB8ddCc416f522AF5C",
+    "name": "binance smart chain testnet"
+  },
+  "100": {
+    "address": "0xb5b692a88bdfc81ca69dcb1d924f59f0413a602a",
+    "name": "xdai mainnet"
+  },
+  "128": {
+    "address": "0x41C0A3059De6bE4f1913630db94d93aB5a2904B4",
+    "name": "huobi eco chain (heco) mainnet"
+  },
+  "137": {
+    "address": "0x11ce4B23bD875D7F5C6a31084f55fDe1e9A87507",
+    "name": "polygon mainnet"
+  },
+  "250": {
+    "address": "0xD98e3dBE5950Ca8Ce5a4b59630a5652110403E5c",
+    "name": "fantom opera mainnet"
+  },
+  "256": {
+    "address": "0x14ED652dF3A270904f16Add0780F7A9d6a68dE52",
+    "name": "huobi eco chain (heco) testnet"
+  },
+  "336": {
+    "address": "0xB6E580BF400d8DEb17dacDD67734d399367e7f94",
+    "name": "shiden mainnet"
+  },
+  "592": {
+    "address": "0x7D6046156df81EF335E7e765d3bc714960B73207",
+    "name": "astar mainet"
+  },
+  "1088": {
+    "address": "0x1a2AFb22B8A90A77a93e80ceA61f89D04e05b796",
+    "name": "metis mainnet"
+  },
+  "42261" : {
+    "address": "0x536aB104c3139E55934b9cF92f1C205E152d3338",
+    "name": "oasis emerald testnet"
+  },
+  "42262" : {
+    "address": "0xA75e40527A55a9eb0C08896C993B0CAdd5cDc18F",
+    "name": "oasis emerald mainnet"
+  },
+  "43114": {
+    "address": "0x8755b94F88D120AB2Cc13b1f6582329b067C760d",
+    "name": "avalanche c chain mainnet"
+  },
+  "43113": {
+    "address": "0xccc75e78Dce6A20bCCa3a30deB23Cb4D23df993a",
+    "name": "avalanche fuji testnet"
+  },
+  "80001": {
+    "address": "0x08411ADd0b5AA8ee47563b146743C13b3556c9Cc",
+    "name": "polygon testnet"
+  }
+}
