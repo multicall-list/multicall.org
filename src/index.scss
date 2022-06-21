@@ -11,15 +11,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  @media #{$mq-lg} {
-    // margin: 0 $margin-lg;
-  }
-  @media #{$mq-xl} {
-    max-width: 80%;
-    left: 40%;
-    position: relative;
-    transform: translateX(-50%);
-  }
+
 }
 
 code {

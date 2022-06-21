@@ -32,14 +32,14 @@ export const Home: React.FC = () => {
           <div className='network' key={index}>
             <div className='network--text-content'>
               <h3>{name}</h3>
-              <button onClick={() => onCopyInfo(1, address)}>
-                {copied === 1 && (
+              <button onClick={() => onCopyInfo(index, address)}>
+                {copied === index && (
                   <span className='copied'>
                     Copied!
                   </span>
                 )}
-                {copied !== 1 && (
-                  <span className='copied'>
+                {copied !== index && (
+                  <span>
                     Copy contract address
                   </span>
                 )}
